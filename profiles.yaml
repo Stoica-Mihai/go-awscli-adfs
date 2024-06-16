@@ -1,0 +1,7 @@
+default:
+  value: <region>
+client1:
+  alpha: <region>
+  beta: <region>
+  gold: <region>
+...
